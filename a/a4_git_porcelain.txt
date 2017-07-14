@@ -1,0 +1,8 @@
+# .git/ subdirectory inside the Working Directory
+# .git directory, which is where almost everything that Git stores and manipulates is located
+# This leaves four important entries: the HEAD and (yet to be created) index files, and the objects and refs directories.
+# Plumbing and Porcelain
+
+# porcelain(2)
+https://git-scm.com/book/zh-tw/v2/Git-Internals-Plumbing-and-Porcelain
+https://stackoverflow.com/questions/6976473/what-does-the-term-porcelain-mean-in-git

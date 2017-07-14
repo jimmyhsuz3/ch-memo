@@ -1,0 +1,31 @@
+@ RabbitMQ
+https://read01.com/L6zP.html
+
+@ eventqueue
+https://www.zkoss.org/wiki/ZK_Developer's_Reference/Event_Handling/Event_Queues
+
+# resolve-dependencies
+# remap jars to Gradle projects
+https://stackoverflow.com/questions/26282985/is-it-possible-for-gradle-projects-in-eclipse-sts-to-resolve-dependencies-to-oth
+http://dontpkme.blogspot.tw/2014/08/eclipse-maven-pom-resolve-plugin-execution-not-covered-by-lifecycle-configuration-error.html
+
+# Gradle Dependencies (persisted)
+https://stackoverflow.com/questions/33416174/difference-in-eclipse-between-gradle-dependencies-and-gradle-dependencies-persi
+
+# map-maven-lifecycle-phases-not-covered
+# solve-plugin-execution-not-covered-by-lifecycle-configuration
+# what-is-pluginmanagement
+
+https://stackoverflow.com/questions/30063357/how-can-i-map-maven-lifecycle-phases-not-covered-by-the-eclipse-m2e-plugin
+https://stackoverflow.com/questions/6352208/how-to-solve-plugin-execution-not-covered-by-lifecycle-configuration-for-sprin
+https://stackoverflow.com/questions/10483180/maven-what-is-pluginmanagement
+https://stackoverflow.com/questions/6352208/how-to-solve-plugin-execution-not-covered-by-lifecycle-configuration-for-sprin
+
+
+his
+https://stackoverflow.com/questions/33416174/difference-in-eclipse-between-gradle-dependencies-and-gradle-dependencies-persi
+http://www.eclipse.org/m2e/documentation/m2e-execution-not-covered.html
+https://www.eclipse.org/m2e/documentation/m2e-execution-not-covered.html
+http://dontpkme.blogspot.tw/2014/08/eclipse-maven-pom-resolve-plugin-execution-not-covered-by-lifecycle-configuration-error.html
+
+axis2-wsdl2code-maven-plugin

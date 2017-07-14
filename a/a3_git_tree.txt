@@ -1,0 +1,24 @@
+git
+4542
+level2
+
+@ git/tree(7)
+# difference-vs-local(3)
+https://stackoverflow.com/questions/3689838/difference-between-head-working-tree-index-in-git
+https://stackoverflow.com/questions/39128500/working-tree-vs-working-directory
+https://stackoverflow.com/questions/8855880/where-is-the-local-repository-located
+
+# local(2)
+https://commons.wikimedia.org/wiki/File:Git_data_flow_simplified.svg
+https://speakerdeck.com/schacon/a-tale-of-three-trees
+
+# vs(1)
+https://github.com/git/git/commit/2a0e6cdedab306eccbd297c051035c13d0266343
+
+# index, staging, interface(1)
+https://backlogtool.com/git-guide/en/intro/intro1_4.html
+
+@ book/git
+
+count
+Working tree vs working directory
