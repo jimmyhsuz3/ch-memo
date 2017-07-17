@@ -19,5 +19,5 @@ https://stackoverflow.com/questions/6976473/what-does-the-term-porcelain-mean-in
 https://github.com/git/git/commit/89aef71d0eb5b5e06216c2efbba76cffe17679f7
 -- https://github.com/git/git/commit/2a0e6cdedab306eccbd297c051035c13d0266343
 
-ssh.¬G¨Æ.file
+ssh.æ•…äº‹.file
 z012da(favorite)
