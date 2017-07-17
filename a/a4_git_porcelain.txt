@@ -1,8 +1,23 @@
-# .git/ subdirectory inside the Working Directory
+# The Local Repository is the .git/ subdirectory inside the Working Directory
+# Plumbing and Porcelain
 # .git directory, which is where almost everything that Git stores and manipulates is located
 # This leaves four important entries: the HEAD and (yet to be created) index files, and the objects and refs directories.
-# Plumbing and Porcelain
 
-# porcelain(2)
+@ git/porcelain(2)
 https://git-scm.com/book/zh-tw/v2/Git-Internals-Plumbing-and-Porcelain
+# pipes and drains(1)
 https://stackoverflow.com/questions/6976473/what-does-the-term-porcelain-mean-in-git
+
+# local-vs-difference(.git-work-tree.directory)
+
+# git-status=working tree clean, discard changes in working directory
+# eclipse=Working Tree
+# git-worktree
+# vs-difference
+
+@ git/vs-difference(1)
+https://github.com/git/git/commit/89aef71d0eb5b5e06216c2efbba76cffe17679f7
+-- https://github.com/git/git/commit/2a0e6cdedab306eccbd297c051035c13d0266343
+
+ssh.¬G¨Æ.file
+z012da(favorite)
