@@ -1,3 +1,15 @@
+git-5.ppt.magic
+git-4542.level2
+git-link.snapshot
+
+git
+4542
+level2
+
+# local(2)
+https://commons.wikimedia.org/wiki/File:Git_data_flow_simplified.svg
+https://speakerdeck.com/schacon/a-tale-of-three-trees
+
 # The Local Repository is the .git/ subdirectory inside the Working Directory
 # Plumbing and Porcelain
 # .git directory, which is where almost everything that Git stores and manipulates is located
@@ -8,16 +20,24 @@ https://git-scm.com/book/zh-tw/v2/Git-Internals-Plumbing-and-Porcelain
 # pipes and drains(1)
 https://stackoverflow.com/questions/6976473/what-does-the-term-porcelain-mean-in-git
 
+# difference-vs-local(3)
 # local-vs-difference(.git-work-tree.directory)
+# Git has three main states that your files can reside in: committed, modified, and staged.
+# the three main sections of a Git project: the Git directory, the working tree, and the staging area.
+
+@ git/difference
+# link.snapshot.level2.difference
+https://book.git-scm.com/book/en/v2/Getting-Started-Git-Basics
 
 # git-status=working tree clean, discard changes in working directory
 # eclipse=Working Tree
 # git-worktree
 # vs-difference
 
+# vs(1)
+https://github.com/git/git/commit/2a0e6cdedab306eccbd297c051035c13d0266343
 @ git/vs-difference(1)
 https://github.com/git/git/commit/89aef71d0eb5b5e06216c2efbba76cffe17679f7
--- https://github.com/git/git/commit/2a0e6cdedab306eccbd297c051035c13d0266343
 
 ssh.故事.file
 z012da(favorite)
