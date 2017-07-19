@@ -57,3 +57,36 @@ git-link.snapshot
 
 0715-15.3+9341
 1234&45
+
+
+照註
+2266442
+12.1+皮
+link.snapshot(reference)(level2.difference.basic)(changes)(cas)(123)
+
+_
+_
+his:basic
+basic
+sublime-github-註連
+
+@ mongodb/atomicity(4)
+# In MongoDB, a write operation is atomic on the level of a single document, even if the operation modifies multiple embedded documents within a single document.
+# Operations on a single document are always atomic with MongoDB databases
+# only single-document operations are atomic with MongoDB
+# To avoid inserting the same document more than once, only use upsert: true if the query field is uniquely indexed.
+https://docs.mongodb.com/manual/core/write-operations-atomicity/
+https://docs.mongodb.com/manual/tutorial/perform-two-phase-commits/
+https://docs.mongodb.com/manual/reference/method/db.collection.update/#update-with-unique-indexes
+https://docs.mongodb.com/manual/reference/method/db.collection.insert/
+
+// mserver
+// db, framework
+// batch
+// dependency, 三角
+// transaction
+// test
+
+// profileSearch
+// profileView
+// mq
