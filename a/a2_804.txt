@@ -119,3 +119,22 @@ JaxRpcWebServiceClient
 7月17日	30	75	20
 7月18日	75	20	
 7月19日	30	50	
+
+74
+
+家裡電腦:browsinghis
+公司電腦:打卡
+6745.6/15
+spring data-mongodb
+mini stand
+22cxf2.1212.1234dy
+sql(group.insert)
+
+10
+10
+account
+找-dropbox(亞尼克.payeasy.兆豐)
+
+照
+
+----
