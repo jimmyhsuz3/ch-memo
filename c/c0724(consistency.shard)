@@ -1,0 +1,40 @@
+consistency.shard
+
+14=找.照.擦.貼.抓
+裡面3(77).foloava(2.起源)
+10.321.發票集.consistency
+
+# (nosql.6)(consistency.shard.5)=(32=網路技術趨勢觀測站.ithome5項觀念.酷壳+wiki.历史穿梭)(3=設計指南.Two Phase.Map-Reduce)
+
+# (原子-一致-一致)在分散式環境中，一致性是說多個節點的資料是否一致。
+http://garyliutw.blogspot.tw/2014/05/mongodb-nosql.html
+# 不過，NoSQL資料庫中談的資料一致性和關聯式資料庫的意義不同
+http://www.ithome.com.tw/news/92506
+# Eventually 最终一致性
+http://coolshell.cn/articles/10910.html
+# 在事務開始之前和事務結束以後，資料庫的完整性沒有被破壞。
+https://zh.wikipedia.org/wiki/ACID
+# 历史穿梭
+http://www.worldhello.net/gotgit/02-git-solo/080-git-history-travel.html
+
+# JMS queues and AMQP queues have different semantics.
+https://spring.io/guides/gs/messaging-rabbitmq/
+https://spring.io/guides/gs/messaging-rabbitmq/
+
+3=父叫子.等待.慣例
+【認識 Gradle】（2）講古的時間 Apache Maven
+spring boot starter
+
+# bind(queue).to(exchange).with(routingKey)
+https://www.cloudamqp.com/blog/2015-09-03-part4-rabbitmq-for-beginners-exchanges-routing-keys-bindings.html
+https://www.cloudamqp.com/blog/2015-09-03-part4-rabbitmq-for-beginners-exchanges-routing-keys-bindings.html
+
+# ./mvnw clean package
+http://docs.spring.io/spring-cloud-stream/docs/Brooklyn.RELEASE/reference/html/_getting_started.html
+# mvn spring-boot:run
+https://docs.spring.io/spring-boot/docs/current/reference/html/using-boot-running-your-application.html
+
+.end
+https://www.digitalocean.com/community/tutorials/how-to-install-java-with-apt-get-on-ubuntu-16-04
+抓
+https://blog.codecentric.de/en/2013/06/spring-batch-2-2-javaconfig-part-5-modular-configurations/
