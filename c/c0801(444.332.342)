@@ -1,0 +1,42 @@
+4.4.4+3.3.2
+
+3374(大紙*2+0729's12+444)
+大紙*4+(10.121)(紙.紙)
+
+3M(9.10.10)+找照看
+18650*5+account
+
+8.9=22+25.26(看看)(6)
+25.26+27.28(看看)(6)
+照(8=1.4*2.5.6*2.7.8)
+======================================================================================================================================================
+342
+
+https://git-scm.com/book/be/v2/Embedding-Git-in-your-Applications-JGit
+https://eclipse.org/jgit/documentation/
+http://www.codeaffine.com/2015/05/06/jgit-initialize-repository/
+
+https://github.com/centic9/jgit-cookbook
+http://download.eclipse.org/jgit/site/4.8.0.201706111038-r/apidocs/index.html
+http://download.eclipse.org/jgit/docs/latest/apidocs
+http://download.eclipse.org/jgit/site/3.7.0.201502260915-r/index.html
+
+https://chenyiqiao.gitbooks.io/git/content/topics/add-commit.html
+https://git-scm.com/book/zh/v2/Git-%E5%86%85%E9%83%A8%E5%8E%9F%E7%90%86-Git-%E5%AF%B9%E8%B1%A1
+
+故事2+from_visit
+chenyiqiao.g內
+
+build
+call
+
+257
+故事:maven.git
+
+
+Documentation->Parent 4.8.0.201706111038-r API
+"https://eclipse.org/jgit/documentation/,http://download.eclipse.org/jgit/site/4.8.0.201706111038-r/apidocs/index.html" 10 5
+Embedding-Git-in-your-Applications-JGit->centic9/jgit-cookbook->jgit-cookbook/OpenRepository.java
+"https://git-scm.com/book/be/v2/Embedding-Git-in-your-Applications-JGit,https://github.com/centic9/jgit-cookbook,https://github.com/centic9/jgit-cookbook/blob/master/src/main/java/org/dstadler/jgit/OpenRepository.java" 10 5
+Embedding-Git-in-your-Applications-JGit->latest/apidocs->JGit - Parent – About
+"https://git-scm.com/book/be/v2/Embedding-Git-in-your-Applications-JGit,http://download.eclipse.org/jgit/docs/latest/apidocs,http://download.eclipse.org/jgit/docs/latest/apidocs/,http://download.eclipse.org/jgit/site/3.7.0.201502260915-r/index.html" 10 5
