@@ -1,0 +1,49 @@
+0803
+----------------------------------------------
+14.19->20(-)
+照:19.20.21(+)
+
+122=21*2(-)
+25.26(-)
+
+10.2+9.2(+)
+----------------------------------------------
+12.1
+1*2=11
+4624
+----------------------------------------------
+抓(抓皮發票集)
+照(8=1.4*2.5.6*2.7.8)
+----------------------------------------------
+api-proxy
+esb
+
+testCompile group: 'org.springframework', name: 'spring-test', version: springVersion
+	testCompile group: 'org.mockito', name: 'mockito-all', version: '1.9.5'
+
+[544]
+ngix
+elb
+benefactor
+同樣的介面
+aes
+
+<service name="TestAopService">
+		<description>TestAopService</description>
+		<parameter name="ServiceClass">com.e104.aop.TestAopServiceImpl</parameter>
+		<parameter name="ServiceObjectSupplier">com.e104.axis2.SpringAppContextAwareObjectSupplier</parameter>
+		<parameter name="SpringBeanName">testAopService</parameter>
+		<messageReceivers>
+			<messageReceiver mep="http://www.w3.org/2004/08/wsdl/in-only"
+				class="org.apache.axis2.rpc.receivers.RPCInOnlyMessageReceiver" />
+			<messageReceiver mep="http://www.w3.org/2004/08/wsdl/in-out"
+				class="org.apache.axis2.rpc.receivers.RPCMessageReceiver" />
+		</messageReceivers>
+	</service>
+	
+git diff 380f690^ -- src/test/java/com/e104/profile/service/TestProfileSearchService.java
+git diff 380f690 -- src/test/java/com/e104/profile/service/TestProfileSearchService.java
+git diff head~ -- src/test/java/com/e104/profile/service/TestProfileSearchService.java
+git diff 380f690 head~ -- src/test/java/com/e104/profile/service/TestProfileSearchService.java
+
+link.jboss.雅(4.手機92)
